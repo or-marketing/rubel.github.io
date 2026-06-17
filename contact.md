@@ -19,9 +19,7 @@ University of California, Davis
 
 ## Links
 
+- [Google Scholar](https://scholar.google.com/citations?user=RZs8_XoAAAAJ&hl=en&oi=ao)
+- [LinkedIn](https://www.linkedin.com/in/olivier-rubel-b243411/)
 - [UC Davis Graduate School of Management](https://gsm.ucdavis.edu/)
 - [GitHub](https://github.com/ormarketing)
-
----
-
-*Add Google Scholar, SSRN, or LinkedIn links here by editing this file (`contact.md`).*

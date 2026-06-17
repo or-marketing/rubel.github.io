@@ -4,7 +4,7 @@ title: Research
 description: Publications and research interests
 ---
 
-My research focuses on marketing strategy, channel management, sales force incentives, pricing, and analytics. I use game-theoretic models, optimization, and empirical methods to study how firms make marketing decisions in dynamic and competitive environments.
+I am a Professor of Marketing at the UC Davis Graduate School of Management. My research is at the interface of marketing, sales, and technology.
 
 ## Publications
 
@@ -43,15 +43,6 @@ My research focuses on marketing strategy, channel management, sales force incen
 17. Competing for Consumer's Attention, with Gerardo Martin-Herrán and Georges Zaccour, **Automatica**, 44, 361–370, 2008.
 
 18. A Differential Game of a Dual Distribution Channel, with Georges Zaccour, **Advances in Dynamic Game Theory and Applications**, 9, 547–568, 2007.
-
-## Research Interests
-
-- Marketing–sales interface and customer acquisition
-- Channel pricing and distribution strategy
-- Sales force compensation and incentives
-- Platform and data strategy
-- Dynamic optimization in marketing
-- Marketing analytics and forecasting
 
 ## Honors and Awards
 

@@ -10,7 +10,7 @@ full_width: true
 ## Olivier Rubel
 Professor of Marketing  
 University of California Davis, Graduate School of Management  
-[orubel@ucdavis.edu](mailto:orubel@ucdavis.edu)
+[orubel@ucdavis.edu](mailto:orubel@ucdavis.edu) · [Google Scholar](https://scholar.google.com/citations?user=RZs8_XoAAAAJ&hl=en&oi=ao) · [LinkedIn](https://www.linkedin.com/in/olivier-rubel-b243411/)
 
 </div>
 
@@ -151,6 +151,7 @@ University of California Davis, Graduate School of Management
 - INSEAD Marketing Insights Lab (2021)
 - University of North Carolina-Chapel Hill – Brown Bag (2020)
 - Institute for the Study of Business Markets, Discussant (2020)
+- UNC Chapel Hill – Brown Bag Seminar (2020)
 - INSEAD – Marketing (2020)
 - Santa Clara University (2019)
 - The Millennium Alliance (2018)
@@ -235,9 +236,13 @@ Annals of Operations Research, Artificial Intelligence and Law, Automatica, Belg
 - INFORMS Service Science Best Student Paper Award, Committee Member, 2024
 - Invited Organizer for a Special Session on Marketing, INFORMS Annual Conference, 2015
 - Invited Organizer, Special Session for the E-Business Cluster at the INFORMS Annual Conference, 2009
-- Organizer and Session Co-Chair, Marketing Science Conference (2018, 2011, 2010)
+- Organizer and Session Co-Chair, Marketing Science Conference, 2018
+- Organizer and Session Co-Chair, Marketing Science Conference, 2011
+- Organizer and Session Co-Chair, Marketing Science Conference, 2010
 - Session Chair, Marketing Science Conference, 2014
-- Session Chair, Optimization Days Conference (2013, 2010, 2005)
+- Session Chair, Optimization Days Conference, 2013
+- Session Chair, Optimization Days Conference, 2010
+- Session Chair, Optimization Days Conference, 2005
 - Session Co-Chair, POMS Conference, 2017
 - Session Co-organizer, Eleventh Triennial Invitational Choice Symposium, 2019
 
@@ -253,39 +258,52 @@ Annals of Operations Research, Artificial Intelligence and Law, Automatica, Belg
 
 ### Service to UC Davis
 
-- Academic Senate Executive Council, Member (2025–2026, 2026–2027)
+- Academic Senate Executive Council, Member, 2026–2027
+- Academic Senate Executive Council, Member, 2025–2026
 - Administrator Review Committee, Member, 2024–2025
 - ARE Graduate Program Review Committee, Member, 2025
 - Committee for Global Centers-Europe, Member, 2016–2017
 - Committee on Course Materials and Service Fees, Member, 2025–2026
-- Committee on Elections, Rules, and Jurisdiction, Chair (2025–2026, 2026–2027); Member, 2024–2025
-- Committee on Undergraduate Scholarships, Member (2022–2023, 2023–2024)
+- Committee on Elections, Rules, and Jurisdiction, Chair, 2026–2027
+- Committee on Elections, Rules, and Jurisdiction, Chair, 2025–2026
+- Committee on Elections, Rules, and Jurisdiction, Member, 2024–2025
+- Committee on Undergraduate Scholarships, Member, 2023–2024
+- Committee on Undergraduate Scholarships, Member, 2022–2023
 - Recruiting Committee, Marketing Director at UC Davis, 2009
-- Representative Assembly, Member (2025–2026, 2026–2027)
+- Representative Assembly, Member, 2026–2027
+- Representative Assembly, Member, 2025–2026
 
 ### Service to the Graduate School of Management
 
 - Committee on Courses, Member, 2012–2019
-- Committee on Faculty Recruitment, Chair, 2023–2024; Member (2020–2021, 2015–2016, 2016–2017)
-- Committee on Research, Member (2010–2011, 2011–2012, 2018–2019)
+- Committee on Faculty Recruitment, Chair, 2023–2024
+- Committee on Faculty Recruitment, Member, 2020–2021
+- Committee on Faculty Recruitment, Member, 2016–2017
+- Committee on Faculty Recruitment, Member, 2015–2016
+- Committee on Research, Member, 2018–2019
+- Committee on Research, Member, 2011–2012
+- Committee on Research, Member, 2010–2011
 - Committee on Teaching Equity, 2022–2023
-- Committee on Undergraduate Programs (2008–2009, 2009–2010, 2017–2018, 2018–2019)
+- Committee on Undergraduate Programs, 2018–2019
+- Committee on Undergraduate Programs, 2017–2018
+- Committee on Undergraduate Programs, 2009–2010
+- Committee on Undergraduate Programs, 2008–2009
 - Diversity Committee, Member, 2016–2017
-- Faculty Executive Committee, Member (2019–2020, 2022–2023, 2026–2027)
+- Faculty Executive Committee, Member, 2026–2027
+- Faculty Executive Committee, Member, 2022–2023
+- Faculty Executive Committee, Member, 2019–2020
 - Faculty Recruitment Committee, Member, 2025–2026
 - GSM AI Ad Hoc Committee, Member, 2024–2025
 - Marketing Area Convener, 2024–2025
 - Master Class, Incoming MBA students, 2026
 - MBA Graduate Program Committee, 2023–2025
 - MBA Task Force Committee, Member, 2019–2020
-- MSBA Admission Committee, Chair (2024–2026); Member, 2017–2024
-- MSBA Graduate Program Committee (2017–2025, 2026–2027)
+- MSBA Admission Committee, Chair, 2024–2026
+- MSBA Admission Committee, Member, 2017–2024
+- MSBA Graduate Program Committee, 2026–2027
+- MSBA Graduate Program Committee, 2017–2025
 - Panelist at the Peer-to-Pier, GSM, 2011
 - Senate Faculty Search Committee (Marketing), Chair, 2022–2023
 - Senate Faculty Search Committee (Management), Member, 2018–2019
 
 </div>
-
----
-
-*This CV is rendered directly on this page. To update it, edit `cv.md` in the repository.*

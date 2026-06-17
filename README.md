@@ -10,7 +10,6 @@ A minimal [GitHub Pages](https://pages.github.com/) site for Olivier Rubel, buil
 |------|--------------|
 | Home | `index.md` |
 | Research | `research.md` |
-| Working Papers | `working-papers.md` |
 | Teaching | `teaching.md` |
 | CV | `cv.md` |
 | Contact | `contact.md` |
