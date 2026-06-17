@@ -2,7 +2,7 @@
 
 A minimal [GitHub Pages](https://pages.github.com/) site for Olivier Rubel, built with [Jekyll](https://jekyllrb.com/) and Markdown.
 
-**Live site:** [https://ormarketing.github.io](https://ormarketing.github.io) (after deployment)
+**Live site:** [https://ormarketing.github.io](https://ormarketing.github.io)
 
 ## Pages
 
