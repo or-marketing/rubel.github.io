@@ -1,3 +1,10 @@
+/* --- Header hidden (single-page site) --- */
+.site-header,
+.site-nav,
+.nav-toggle {
+  display: none !important;
+}
+
 /* --- Variables --- */
 :root {
   --color-text: #1a1a1a;

@@ -11,13 +11,6 @@ author:
   google_scholar: https://scholar.google.com/citations?user=RZs8_XoAAAAJ&hl=en&oi=ao
   linkedin: https://www.linkedin.com/in/olivier-rubel-b243411/
 
-# Navigation (edit labels or add pages here)
-navigation:
-  - title: Home
-    url: /
-  - title: CV
-    url: /cv/
-
 markdown: kramdown
 kramdown:
   input: GFM
