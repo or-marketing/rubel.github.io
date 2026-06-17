@@ -6,11 +6,7 @@ description: Professor of Marketing at UC Davis Graduate School of Management
 ---
 
 <div class="hero">
-  <div class="quick-links quick-links-top">
-    <a href="{{ '/CV.pdf' | absolute_url }}?v=3" target="_blank" rel="noopener">CV</a>
-    <a href="https://scholar.google.com/citations?user=RZs8_XoAAAAJ&hl=en&oi=ao">Google Scholar</a>
-    <a href="https://www.linkedin.com/in/olivier-rubel-b243411/">LinkedIn</a>
-  </div>
+  {% include top-links.html %}
 
   <div class="hero-layout">
     <img class="hero-photo" src="{{ '/assets/images/olivier-rubel.png' | absolute_url }}" alt="Olivier Rubel">
