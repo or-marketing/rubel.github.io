@@ -25,8 +25,3 @@ description: Professor of Marketing
     </div>
   </div>
 </div>
-
-<section id="research" class="research-section">
-  <h2>Research</h2>
-  {% include publications.html %}
-</section>
