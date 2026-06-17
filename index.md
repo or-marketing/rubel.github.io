@@ -28,6 +28,5 @@ description: Professor of Marketing at UC Davis Graduate School of Management
 
 <section id="research" class="research-section">
   <h2>Research</h2>
-  <p class="research-intro">Publications in reverse chronological order. Click a title to open the paper (PDF).</p>
   {% include publications.html %}
 </section>
