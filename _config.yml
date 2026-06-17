@@ -15,14 +15,8 @@ author:
 navigation:
   - title: Home
     url: /
-  - title: Research
-    url: /research/
-  - title: Teaching
-    url: /teaching/
   - title: CV
     url: /cv/
-  - title: Contact
-    url: /contact/
 
 markdown: kramdown
 kramdown:
