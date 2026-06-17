@@ -6,6 +6,12 @@ description: Professor of Marketing at UC Davis Graduate School of Management
 ---
 
 <div class="hero">
+  <div class="quick-links quick-links-top">
+    <a href="{{ '/CV.pdf' | absolute_url }}?v=3" target="_blank" rel="noopener">CV</a>
+    <a href="https://scholar.google.com/citations?user=RZs8_XoAAAAJ&hl=en&oi=ao">Google Scholar</a>
+    <a href="https://www.linkedin.com/in/olivier-rubel-b243411/">LinkedIn</a>
+  </div>
+
   <div class="hero-layout">
     <img class="hero-photo" src="{{ '/assets/images/olivier-rubel.png' | absolute_url }}" alt="Olivier Rubel">
     <div class="hero-content">
@@ -19,12 +25,6 @@ description: Professor of Marketing at UC Davis Graduate School of Management
         <p>
           My work has been published in leading journals including the <em>Journal of Marketing</em>, <em>Marketing Science</em>, <em>Journal of Marketing Research</em>, and <em>European Journal of Operational Research</em>.
         </p>
-      </div>
-
-      <div class="quick-links">
-        <a href="{{ '/CV.pdf' | absolute_url }}?v=3" target="_blank" rel="noopener">CV</a>
-        <a href="https://scholar.google.com/citations?user=RZs8_XoAAAAJ&hl=en&oi=ao">Google Scholar</a>
-        <a href="https://www.linkedin.com/in/olivier-rubel-b243411/">LinkedIn</a>
       </div>
     </div>
   </div>
