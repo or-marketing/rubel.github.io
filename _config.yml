@@ -1,0 +1,39 @@
+title: Olivier Rubel
+description: Professor of Marketing — University of California, Davis
+url: "https://ormarketing.github.io"
+baseurl: ""
+
+author:
+  name: Olivier Rubel
+  email: orubel@ucdavis.edu
+  affiliation: University of California Davis, Graduate School of Management
+
+# Navigation (edit labels or add pages here)
+navigation:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Working Papers
+    url: /working-papers/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /cv/
+  - title: Contact
+    url: /contact/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - "*.tex"
+  - vendor/
