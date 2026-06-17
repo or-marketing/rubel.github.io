@@ -2,6 +2,7 @@ title: Olivier Rubel
 description: Professor of Marketing — University of California, Davis
 url: "https://or-marketing.github.io"
 baseurl: "/rubel.github.io"
+permalink: pretty
 
 author:
   name: Olivier Rubel
