@@ -2,7 +2,7 @@
 layout: default
 title: Home
 show_title: false
-description: Professor of Marketing at UC Davis Graduate School of Management
+description: Professor of Marketing
 ---
 
 <div class="hero">
@@ -16,7 +16,7 @@ description: Professor of Marketing at UC Davis Graduate School of Management
 
       <div class="hero-bio">
         <p>
-          I am a Professor of Marketing at the UC Davis Graduate School of Management. My research is at the interface of marketing, sales, and technology.
+          I am a Professor of Marketing at the UC Davis Graduate School of Management. My work sits at the intersection of marketing, sales, and technology, with a focus on how firms design strategies, incentives, and systems to drive growth.
         </p>
         <p>
           My work has been published in leading journals including the <em>Journal of Marketing</em>, <em>Marketing Science</em>, <em>Journal of Marketing Research</em>, and <em>European Journal of Operational Research</em>.
