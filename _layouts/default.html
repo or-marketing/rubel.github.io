@@ -12,18 +12,6 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
-      {% include nav.html %}
-    </div>
-  </header>
-
   <main class="site-main container{% if page.full_width %} container-wide{% endif %}">
     {% if page.title and page.show_title != false %}
     <h1 class="page-title">{{ page.title }}</h1>
@@ -36,14 +24,5 @@
       <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. All rights reserved.</p>
     </div>
   </footer>
-
-  <script>
-    document.querySelector('.nav-toggle').addEventListener('click', function () {
-      const nav = document.querySelector('.site-nav');
-      const expanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', !expanded);
-      nav.classList.toggle('is-open');
-    });
-  </script>
 </body>
 </html>
